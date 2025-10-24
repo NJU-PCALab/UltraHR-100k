@@ -30,12 +30,16 @@ pip install -v --disable-pip-version-check --no-cache-dir --no-build-isolation -
 pip install -U xformers --index-url https://download.pytorch.org/whl/cu121
 ```
 
-### Dataset
+## Dataset
 Download [UltraHR-100K](https://huggingface.co/datasets/zhihefang/UltraHR-100K) dataset.
 
-`
 ## Benchmark
-Download [UltraHR-100K](https://huggingface.co/datasets/zhihefang/UltraHR-100K) dataset.
+Download [UltraHR-eval4K](https://huggingface.co/datasets/zhihefang/UltraHR-100K) dataset.
+
+## Visual Results
+<p align="center">
+  <img src="compared_overrall.pdf"  height=360>
+</p>
 
 
 ## Citation
