@@ -36,10 +36,6 @@ Download [UltraHR-100K](https://pan.baidu.com/s/1o9IThNqyJcCJ7H2zXqGY7w?pwd=1234
 ## Benchmark
 Download [UltraHR-eval4K](https://huggingface.co/datasets/zhihefang/UltraHR-100K) dataset.
 
-## Visual Results
-<p align="center">
-  <img src="compared_overrall.pdf"  height=360>
-</p>
 
 
 ## Citation
