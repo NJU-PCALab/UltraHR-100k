@@ -1,0 +1,49 @@
+UltraHR-100K Dataset License Agreement (CC-BY-4.0 with Additional Restrictions)
+1. Permitted Use
+1.1. You may use, modify, and distribute the UltraHR-100K Dataset (the "Data") for non-commercial research purposes only, provided you comply with: - This Agreement; - The Terms of Service of any upstream data source(s) (if applicable); and - Any applicable copyright laws.
+
+1.2. Computational Use (e.g., training AI models, analysis) is permitted, but Results (defined in §5) must not include more than a de minimis portion of the original Data.
+
+1.3. The Data Provider waives claims against you or Downstream Recipients for compliant use, modification, or distribution.
+
+2. Restrictions
+2.1. Commercial use is strictly prohibited, including but not limited to: - Monetization, product integration, or service improvement. - Redistribution for monetary or other consideration.
+
+2.2. Ethical & Legal Compliance: - Do not use the Data for harmful, misleading, or unethical applications. - Do not redistribute raw data (e.g., original images, videos, metadata) outside this dataset. - Obtain creator permission for derivative works that go beyond the scope of research.
+
+2.3. No Re-identification: Handle any residual personal data in compliance with privacy laws (e.g., GDPR, CCPA).
+
+3. Redistribution Requirements
+3.1. If redistributing the Data, you must: - Include all original credit/attribution (e.g., attribution to data sources, upstream licenses). - Bind recipients to this Agreement.
+
+3.2. Derivative datasets must retain the same license terms.
+
+4. Disclaimers & Liability
+4.1. No Ownership Warranty: The Data Provider does not claim ownership rights to the content in the Data.
+
+4.2. "AS IS" Basis: The Data may contain inaccuracies, biases, or sensitive content. Use at your own risk.
+
+4.3. No Liability: The Data Provider and Upstream Data Providers are not liable for: - Damages from misuse (legal, privacy, or reputational). - Violations of third-party terms or laws.
+
+5. Definitions
+Data: The UltraHR-100K Dataset, modified or unmodified.
+
+Results: Outputs (e.g., AI models, research papers, analyses) containing ≤ de minimis Data.
+
+Downstream Recipient: Any entity receiving the Data through you.
+
+6. Termination
+The Data Provider may revoke access to the Data for legal, ethical, or security reasons.
+
+By using the Data, you agree to these terms.
+
+Last updated: YYYY.MM.DD
+
+Key Notes for Users:
+Non-commercial research only.
+
+Attribute properly (CC-BY-4.0 + upstream licenses).
+
+No redistribution of raw data content.
+
+Comply with data source ToS and privacy laws.
