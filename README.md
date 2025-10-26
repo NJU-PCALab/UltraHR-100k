@@ -36,6 +36,19 @@ Download [UltraHR-100K](https://pan.baidu.com/s/1o9IThNqyJcCJ7H2zXqGY7w?pwd=1234
 ## Benchmark
 Download [UltraHR-eval4K](https://huggingface.co/datasets/zhihefang/UltraHR-100K) dataset.
 
+## License
+This dataset is available under a Creative Commons BY-NC 4.0 license. For detailed information, please refer to the license_UltraHR100K.txt document.
+You CAN:
+  Use, modify, and share the data for non-commercial research purposes ONLY.
+  Train models and publish research papers (Results), as long as they don't contain a significant portion of the original data.
+You CANNOT:
+  Use the data for harmful, unethical, or misleading purposes.
+  Attempt to re-identify any individuals.
+You MUST:
+  Give appropriate credit (attribution) to the UltraHR-100K dataset and any upstream sources.
+  Ensure anyone you share the data with also agrees to these same terms.
+
+Disclaimer: The data is provided "AS IS." The creators are not liable for any misuse. By using this dataset, you agree to the full License Agreement.
 
 
 ## Citation
