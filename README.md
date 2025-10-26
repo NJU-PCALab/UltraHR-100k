@@ -22,7 +22,7 @@ Ultra-high-resolution (UHR) text-to-image (T2I) generation has seen notable prog
 ### Environment
 ```bash
 conda create -n openvid python=3.10
-conda activate openvid
+conda activate ultrahr
 pip install torch torchvision
 pip install packaging ninja
 pip install flash-attn --no-build-isolation
@@ -31,8 +31,8 @@ pip install -U xformers --index-url https://download.pytorch.org/whl/cu121
 ```
 
 ## Dataset
-Download [UltraHR-100K](https://huggingface.co/datasets/zhihefang/UltraHR-100K) dataset.
-
+Download [UltraHR-100K](https://pan.baidu.com/s/1o9IThNqyJcCJ7H2zXqGY7w?pwd=1234) dataset.
+提取码: 1234
 ## Benchmark
 Download [UltraHR-eval4K](https://huggingface.co/datasets/zhihefang/UltraHR-100K) dataset.
 
