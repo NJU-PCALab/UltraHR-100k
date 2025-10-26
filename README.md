@@ -21,7 +21,7 @@ Ultra-high-resolution (UHR) text-to-image (T2I) generation has seen notable prog
 ## Preparation
 ### Environment
 ```bash
-conda create -n openvid python=3.10
+conda create -n ultrahr python=3.10
 conda activate ultrahr
 pip install torch torchvision
 pip install packaging ninja
