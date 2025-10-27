@@ -31,8 +31,9 @@ pip install -U xformers --index-url https://download.pytorch.org/whl/cu121
 ```
 
 ## Dataset
-Download [UltraHR-100K](https://pan.baidu.com/s/1o9IThNqyJcCJ7H2zXqGY7w?pwd=1234) dataset.
+Download [UltraHR-100K](https://pan.baidu.com/s/1Q7vX8uXTLj5MLN5WIIVsFg?pwd=1234) dataset.
 提取码: 1234
+
 ## Benchmark
 Download [UltraHR-eval4K](https://huggingface.co/datasets/zhihefang/UltraHR-100K) dataset.
 
