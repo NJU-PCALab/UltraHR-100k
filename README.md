@@ -57,9 +57,9 @@ Disclaimer: The data is provided "AS IS." The creators are not liable for any mi
 
 ## Citation
 ```bibtex
-@article{sun2022shufflemixer,
+@article{zhao2025ultrahr,
   title={UltraHR-100K: Enhancing UHR Image Synthesis with A Large-Scale High-Quality Dataset},
-  author={Chen Zhao, En Ci, Yunzhe Xu, Tiehan Fan, Shanyan Guan, Yanhao Ge, Jian Yang, Ying Tai},
+  author={Zhao, Chen and Ci, En and Xu, Yunzhe and Fan, Tiehan and Guan, Shanyan and Ge, Yanhao and Yang, Jian and Tai, Ying},
   journal={Advances in Neural Information Processing Systems},
   year={2025}
 }
