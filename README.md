@@ -32,7 +32,10 @@ pip install -U xformers --index-url https://download.pytorch.org/whl/cu121
 
 ## Dataset
 Download [UltraHR-100K](https://huggingface.co/datasets/zhihefang/UltraHR-100K) dataset.
-
+Note: We have re-uploaded the complete ZIP dataset. Please merge the downloaded fragments before use. You can combine the slices with the following command:
+```
+cat part_* > ultrahr100k.zip
+```
 
 ## Benchmark
 Download [UltraHR-eval4K](https://huggingface.co/datasets/zhihefang/UltraHR-100K) dataset.
